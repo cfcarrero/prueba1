@@ -1,0 +1,2 @@
+Software: Lo que ejecuta e interpreta los deseos de los usuarios.
+Hardware: Recursos con los que dispone una computadora

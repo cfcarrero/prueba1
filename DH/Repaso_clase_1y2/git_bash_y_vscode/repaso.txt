@@ -1,0 +1,2 @@
+Git Bash: Consola que permite Ejecutar comandos
+VS Code: Es un IDE (Integrated Development Environment) utilizado para el desarrollo web
